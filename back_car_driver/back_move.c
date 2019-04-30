@@ -155,6 +155,8 @@ void __exit demo_exit(void)
 }	
  
 module_init(demo_init);
+
+
 module_exit(demo_exit)
 
 
